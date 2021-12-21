@@ -18,4 +18,4 @@ ___
 Stats:<br>
 ![Khayal_Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayal-dev&show_icons=true)
 <br>
-<img src="https://wakatime.com/share/@Khayal_Dev/b0ca595d-e0eb-4ff8-9f1a-cac505635d76.png" width="400" height="400">
+<img src="https://wakatime.com/share/@Khayal_Dev/b0ca595d-e0eb-4ff8-9f1a-cac505635d76.png" width="495" height="400">
