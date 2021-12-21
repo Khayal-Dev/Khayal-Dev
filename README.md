@@ -17,6 +17,4 @@ contact methods:
 ___
 ![Khayal_Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayal-dev&show_icons=true)
 ___
-<html>
-<figure><embed src="https://wakatime.com/share/@Khayal_Dev/ad13df26-1644-45d6-9f4d-e41044431e8e.svg"></embed></figure>
-</html>
+<embed src="https://wakatime.com/share/@Khayal_Dev/ad13df26-1644-45d6-9f4d-e41044431e8e.svg"></embed>
