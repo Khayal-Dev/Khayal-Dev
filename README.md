@@ -15,6 +15,6 @@ ___
 contact methods:<br>
 **There is no method to contact right now <img src="https://img.icons8.com/color/20/000000/sad--v1.png">**
 ___
+Stats:<br>
 ![Khayal_Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=khayal-dev&show_icons=true)
-___
-<embed src="https://wakatime.com/share/@Khayal_Dev/ad13df26-1644-45d6-9f4d-e41044431e8e.svg"></embed>
+<img src="https://wakatime.com/share/@Khayal_Dev/ad13df26-1644-45d6-9f4d-e41044431e8e.svg">
