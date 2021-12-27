@@ -1,4 +1,4 @@
-# Hi i am khayal :wave: 🦚
+# Hi i am khayal :wave:
 ___
 
 I am Khayal
