@@ -20,4 +20,6 @@ Stats:<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Khayal-Dev" alt="views on github" />
 <br>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Khayal-Dev/Khayal-Dev/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<br>
 <img src="https://wakatime.com/share/@Khayal_Dev/b0ca595d-e0eb-4ff8-9f1a-cac505635d76.png" width="495" height="400">
