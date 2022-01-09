@@ -22,4 +22,4 @@ Stats:<br>
 <br>
 <a href="https://app.daily.dev/Khayal_Dev"><img src="https://api.daily.dev/devcards/18587f09072a4a4fb8c832f386b2822a.png?r=3qu" width="400" alt="Khayal_Dev's Dev Card"/></a>
 <br>
-<img src="https://wakatime.com/share/@Khayal_Dev/b0ca595d-e0eb-4ff8-9f1a-cac505635d76.png" width="495" height="400">
+<img src="https://wakatime.com/share/@Khayal_Dev/e91c4355-2a4d-4c65-851f-385a6dea60f0.svg">
